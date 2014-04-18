@@ -16,10 +16,16 @@
 /Users/tagon8/Workspaces/Hue42/estudos/phonegap/qualotime/platforms/android/assets/www/cordova.js \
 /Users/tagon8/Workspaces/Hue42/estudos/phonegap/qualotime/platforms/android/assets/www/cordova_plugins.js \
 /Users/tagon8/Workspaces/Hue42/estudos/phonegap/qualotime/platforms/android/assets/www/css \
+/Users/tagon8/Workspaces/Hue42/estudos/phonegap/qualotime/platforms/android/assets/www/fonts \
 /Users/tagon8/Workspaces/Hue42/estudos/phonegap/qualotime/platforms/android/assets/www/img \
 /Users/tagon8/Workspaces/Hue42/estudos/phonegap/qualotime/platforms/android/assets/www/index.html \
 /Users/tagon8/Workspaces/Hue42/estudos/phonegap/qualotime/platforms/android/assets/www/js \
 /Users/tagon8/Workspaces/Hue42/estudos/phonegap/qualotime/platforms/android/assets/www/css/index.css \
+/Users/tagon8/Workspaces/Hue42/estudos/phonegap/qualotime/platforms/android/assets/www/fonts/husky_stash-webfont.eot \
+/Users/tagon8/Workspaces/Hue42/estudos/phonegap/qualotime/platforms/android/assets/www/fonts/husky_stash-webfont.svg \
+/Users/tagon8/Workspaces/Hue42/estudos/phonegap/qualotime/platforms/android/assets/www/fonts/husky_stash-webfont.ttf \
+/Users/tagon8/Workspaces/Hue42/estudos/phonegap/qualotime/platforms/android/assets/www/fonts/husky_stash-webfont.woff \
 /Users/tagon8/Workspaces/Hue42/estudos/phonegap/qualotime/platforms/android/assets/www/img/logo.png \
 /Users/tagon8/Workspaces/Hue42/estudos/phonegap/qualotime/platforms/android/assets/www/js/index.js \
+/Users/tagon8/Workspaces/Hue42/estudos/phonegap/qualotime/platforms/android/assets/www/js/zepto.js \
 /Users/tagon8/Workspaces/Hue42/estudos/phonegap/qualotime/platforms/android/ant-build/AndroidManifest.xml \
