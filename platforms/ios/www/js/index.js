@@ -26,24 +26,27 @@ var app = {
     // Bind any events that are required on startup. Common events are:
     // 'load', 'deviceready', 'offline', and 'online'.
     bindEvents: function() {
-        document.addEventListener('deviceready', this.onDeviceReady, false);
+        document.addEventListener('deviceready',
+           $.ajax({
+            type: 'GET',
+            url: 'http://localhost:8080/api/teams',
+            // data to be added to query string:
+            //data: { name: 'Zepto.js' },
+            // type of data we are expecting in return:
+            dataType: 'json',
+            //timeout: 300,
+            //context: $('body'),
+            success: function(data){
+              // Supposing this JSON payload was received:
+              //   {"project": {"id": 42, "html": "<div>..." }}
+              // append the HTML to context object.
+              //this.append(data.project.html)
+              window.sessionStorage.setItem("data", data);
+            },
+            error: function(xhr, type){
+              alert('Ajax error!')
+            }
+          })
+        , false);
     },
-    // deviceready Event Handler
-    //
-    // The scope of 'this' is the event. In order to call the 'receivedEvent'
-    // function, we must explicity call 'app.receivedEvent(...);'
-    onDeviceReady: function() {
-        app.receivedEvent('deviceready');
-    },
-    // Update DOM on a Received Event
-    receivedEvent: function(id) {
-        var parentElement = document.getElementById(id);
-        var listeningElement = parentElement.querySelector('.listening');
-        var receivedElement = parentElement.querySelector('.received');
-
-        listeningElement.setAttribute('style', 'display:none;');
-        receivedElement.setAttribute('style', 'display:block;');
-
-        console.log('Received Event: ' + id);
-    }
 };
