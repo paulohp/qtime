@@ -32,6 +32,7 @@ body {
     margin:0px;
     padding:0px;
     width:100%;
+    background:url(../img/bg.jpg) repeat;
 }
 
 /* Portrait layout (default) */
@@ -67,6 +68,7 @@ body {
     overflow:visible;
     padding:0px;
     text-align:center;
+    text-shadow: 2px 2px #555;
 }
 
 .button {
@@ -79,11 +81,7 @@ body {
 	font-size: 24px;
 	border: 1px solid #2d6898;
 	background-image: linear-gradient(bottom, rgb(73,132,180) 0%, rgb(97,155,203) 100%);
-	background-image: -o-linear-gradient(bottom, rgb(73,132,180) 0%, rgb(97,155,203) 100%);
-	background-image: -moz-linear-gradient(bottom, rgb(73,132,180) 0%, rgb(97,155,203) 100%);
 	background-image: -webkit-linear-gradient(bottom, rgb(73,132,180) 0%, rgb(97,155,203) 100%);
-	background-image: -ms-linear-gradient(bottom, rgb(73,132,180) 0%, rgb(97,155,203) 100%);
-	
 	background-image: -webkit-gradient(
 		linear,
 		left bottom,

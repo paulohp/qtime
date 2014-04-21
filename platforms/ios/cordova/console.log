@@ -130,3 +130,46 @@ Terminating in response to SpringBoard's termination.
 2014-04-19 07:52:54.297 QualTime[1987:70b] Resetting plugins due to page load.
 2014-04-19 07:52:54.413 QualTime[1987:70b] Finished load of: file:///Users/tagon8/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/B8E92E45-3376-432A-A834-0E38B33AD59D/QualTime.app/www/index.html
 2014-04-19 07:53:02.695 QualTime[1987:70b] Received memory warning.
+2014-04-21 12:19:32.747 QualTime[6595:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-21 12:19:32.780 QualTime[6595:70b] Unlimited access to network resources
+2014-04-21 12:19:33.116 QualTime[6595:70b] Resetting plugins due to page load.
+2014-04-21 12:19:33.800 QualTime[6595:70b] Finished load of: file:///Users/tagon8/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/B8E92E45-3376-432A-A834-0E38B33AD59D/QualTime.app/www/index.html
+2014-04-21 12:32:17.635 QualTime[7545:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-21 12:32:17.660 QualTime[7545:70b] Unlimited access to network resources
+2014-04-21 12:32:18.190 QualTime[7545:70b] Resetting plugins due to page load.
+2014-04-21 12:32:18.851 QualTime[7545:70b] Finished load of: file:///Users/tagon8/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/B8E92E45-3376-432A-A834-0E38B33AD59D/QualTime.app/www/index.html
+2014-04-21 12:40:50.187 QualTime[7545:70b] Received memory warning.
+2014-04-21 12:43:27.041 QualTime[8420:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-21 12:43:27.050 QualTime[8420:70b] Unlimited access to network resources
+2014-04-21 12:43:27.197 QualTime[8420:70b] Resetting plugins due to page load.
+2014-04-21 12:43:31.229 QualTime[8420:70b] Finished load of: file:///Users/tagon8/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/B8E92E45-3376-432A-A834-0E38B33AD59D/QualTime.app/www/index.html
+2014-04-21 12:52:04.183 QualTime[9101:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-21 12:52:04.220 QualTime[9101:70b] Unlimited access to network resources
+2014-04-21 12:52:04.473 QualTime[9101:70b] Resetting plugins due to page load.
+2014-04-21 12:52:05.145 QualTime[9101:70b] Finished load of: file:///Users/tagon8/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/B8E92E45-3376-432A-A834-0E38B33AD59D/QualTime.app/www/index.html
+2014-04-21 12:56:04.129 QualTime[9101:70b] Resetting plugins due to page load.
+2014-04-21 12:56:04.151 QualTime[9101:70b] Finished load of: file:///Users/tagon8/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/B8E92E45-3376-432A-A834-0E38B33AD59D/QualTime.app/www/main.html
+2014-04-21 13:54:28.529 QualTime[12300:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-21 13:54:28.581 QualTime[12300:70b] Unlimited access to network resources
+2014-04-21 13:54:29.280 QualTime[12300:70b] Resetting plugins due to page load.
+2014-04-21 13:54:32.360 QualTime[12300:70b] Finished load of: file:///Users/tagon8/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/B8E92E45-3376-432A-A834-0E38B33AD59D/QualTime.app/www/index.html
+2014-04-21 13:54:41.784 QualTime[12300:70b] Resetting plugins due to page load.
+2014-04-21 13:54:41.801 QualTime[12300:70b] Finished load of: file:///Users/tagon8/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/B8E92E45-3376-432A-A834-0E38B33AD59D/QualTime.app/www/main.html
+2014-04-21 13:55:20.947 QualTime[12488:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-21 13:55:20.956 QualTime[12488:70b] Unlimited access to network resources
+2014-04-21 13:55:21.108 QualTime[12488:70b] Resetting plugins due to page load.
+2014-04-21 13:55:24.571 QualTime[12488:70b] Finished load of: file:///Users/tagon8/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/B8E92E45-3376-432A-A834-0E38B33AD59D/QualTime.app/www/index.html
+2014-04-21 13:56:12.278 QualTime[12674:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-21 13:56:12.288 QualTime[12674:70b] Unlimited access to network resources
+2014-04-21 13:56:12.463 QualTime[12674:70b] Resetting plugins due to page load.
+2014-04-21 13:56:13.828 QualTime[12674:70b] Finished load of: file:///Users/tagon8/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/B8E92E45-3376-432A-A834-0E38B33AD59D/QualTime.app/www/index.html
+2014-04-21 13:59:20.308 QualTime[13028:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-21 13:59:20.315 QualTime[13028:70b] Unlimited access to network resources
+2014-04-21 13:59:20.468 QualTime[13028:70b] Resetting plugins due to page load.
+2014-04-21 13:59:21.581 QualTime[13028:70b] Finished load of: file:///Users/tagon8/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/B8E92E45-3376-432A-A834-0E38B33AD59D/QualTime.app/www/index.html
+2014-04-21 14:00:10.349 QualTime[13170:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-21 14:00:10.356 QualTime[13170:70b] Unlimited access to network resources
+2014-04-21 14:00:10.412 QualTime[13170:70b] Resetting plugins due to page load.
+2014-04-21 14:00:10.988 QualTime[13170:70b] Finished load of: file:///Users/tagon8/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/B8E92E45-3376-432A-A834-0E38B33AD59D/QualTime.app/www/index.html
+2014-04-21 14:09:36.806 QualTime[13170:70b] Resetting plugins due to page load.
+2014-04-21 14:09:36.933 QualTime[13170:70b] Finished load of: file:///Users/tagon8/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/B8E92E45-3376-432A-A834-0E38B33AD59D/QualTime.app/www/main.html
