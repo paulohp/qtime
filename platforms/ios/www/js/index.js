@@ -41,8 +41,7 @@ var app = {
               //   {"project": {"id": 42, "html": "<div>..." }}
               // append the HTML to context object.
               //this.append(data.project.html)
-              window.sessionStorage.setItem("data", data);
-            },
+              window.sessionStorage.setItem("data", JSON.stringify(data)); },
             error: function(xhr, type){
               alert('Ajax error!')
             }
