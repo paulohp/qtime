@@ -21,6 +21,7 @@
 /Users/tagon8/Workspaces/Hue42/estudos/phonegap/qualotime/platforms/android/assets/www/index.html \
 /Users/tagon8/Workspaces/Hue42/estudos/phonegap/qualotime/platforms/android/assets/www/js \
 /Users/tagon8/Workspaces/Hue42/estudos/phonegap/qualotime/platforms/android/assets/www/main.html \
+/Users/tagon8/Workspaces/Hue42/estudos/phonegap/qualotime/platforms/android/assets/www/plugins \
 /Users/tagon8/Workspaces/Hue42/estudos/phonegap/qualotime/platforms/android/assets/www/css/index.css \
 /Users/tagon8/Workspaces/Hue42/estudos/phonegap/qualotime/platforms/android/assets/www/fonts/husky_stash-webfont.eot \
 /Users/tagon8/Workspaces/Hue42/estudos/phonegap/qualotime/platforms/android/assets/www/fonts/husky_stash-webfont.svg \
@@ -29,5 +30,9 @@
 /Users/tagon8/Workspaces/Hue42/estudos/phonegap/qualotime/platforms/android/assets/www/img/bg.jpg \
 /Users/tagon8/Workspaces/Hue42/estudos/phonegap/qualotime/platforms/android/assets/www/img/logo.png \
 /Users/tagon8/Workspaces/Hue42/estudos/phonegap/qualotime/platforms/android/assets/www/js/index.js \
+/Users/tagon8/Workspaces/Hue42/estudos/phonegap/qualotime/platforms/android/assets/www/js/main.js \
 /Users/tagon8/Workspaces/Hue42/estudos/phonegap/qualotime/platforms/android/assets/www/js/zepto.js \
+/Users/tagon8/Workspaces/Hue42/estudos/phonegap/qualotime/platforms/android/assets/www/plugins/org.apache.cordova.statusbar \
+/Users/tagon8/Workspaces/Hue42/estudos/phonegap/qualotime/platforms/android/assets/www/plugins/org.apache.cordova.statusbar/www \
+/Users/tagon8/Workspaces/Hue42/estudos/phonegap/qualotime/platforms/android/assets/www/plugins/org.apache.cordova.statusbar/www/statusbar.js \
 /Users/tagon8/Workspaces/Hue42/estudos/phonegap/qualotime/platforms/android/ant-build/AndroidManifest.xml \
