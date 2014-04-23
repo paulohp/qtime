@@ -8,13 +8,13 @@ var app = {
     }, false);
   },
   objJSON: function(options, callback) {
-  var self = this;
+    var self = this;
 
-  var cached = self.getCache();
-  if ( cached !== null ) {
-    callback(JSON.parse( cached ));
-    return;
-  }
+    var cached = self.getCache();
+    if ( cached !== null ) {
+      callback(JSON.parse( cached ));
+      return;
+    }
 
   var xhttp = self.xmlHttp();
   options.url = options.url || location.href;

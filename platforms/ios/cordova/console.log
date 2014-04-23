@@ -262,3 +262,11 @@ Terminating in response to SpringBoard's termination.
 2014-04-22 21:02:59.643 QualoTime?[9702:70b] [CDVTimer][TotalPluginStartup] 49.847007ms
 2014-04-22 21:02:59.923 QualoTime?[9702:70b] Resetting plugins due to page load.
 2014-04-22 21:03:02.165 QualoTime?[9702:70b] Finished load of: file:///Users/tagon8/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/F1A317FB-57B7-4177-B3A1-1EA135E62303/QualoTime%3F.app/www/index.html
+2014-04-23 10:44:40.486 QualoTime?[2441:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-23 10:44:40.518 QualoTime?[2441:70b] Unlimited access to network resources
+2014-04-23 10:44:40.912 QualoTime?[2441:70b] [CDVTimer][statusbar] 106.214046ms
+2014-04-23 10:44:40.916 QualoTime?[2441:70b] [CDVTimer][TotalPluginStartup] 110.315979ms
+2014-04-23 10:44:41.153 QualoTime?[2441:70b] Resetting plugins due to page load.
+2014-04-23 10:44:44.073 QualoTime?[2441:70b] Finished load of: file:///Users/tagon8/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/F1A317FB-57B7-4177-B3A1-1EA135E62303/QualoTime%3F.app/www/index.html
+2014-04-23 10:52:35.992 QualoTime?[2441:70b] Resetting plugins due to page load.
+2014-04-23 10:52:36.190 QualoTime?[2441:70b] Finished load of: file:///Users/tagon8/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/F1A317FB-57B7-4177-B3A1-1EA135E62303/QualoTime%3F.app/www/main.html
